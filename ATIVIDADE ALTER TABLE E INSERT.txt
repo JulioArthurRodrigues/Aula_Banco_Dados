@@ -1,0 +1,12 @@
+UTILIZE O BANCO DE DADOS EM ANEXO
+Faça as seguintes alterações no banco: 
+a. Crie a tabela Editora com código da editora, nome da editora, telefone da editora 
+b. Relacione a tabela Editora com a tabela Livro 
+c. Altere o nome do campo aa_edição da tabela Livro para ano_publicacao 
+d. Insira o campo id_premiado do tipo bit na tabela Autor 
+e. Exclua o campo ds_categoria da tabela Categoria
+
+Faça as seguintes inserções no banco de dados:
+- Cadastre 5 autores
+- Cadastre 6 categorias
+- Cadastre 10 livros e relacione a categoria e autor através das chaves estrangeiras
